@@ -1,0 +1,2 @@
+rootProject.name='Sorteio Par-ou-Ímpar'
+include ':app'
